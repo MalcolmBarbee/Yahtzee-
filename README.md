@@ -25,6 +25,8 @@ Please make sure to update tests as appropriate.
 
 Roll a die to see who starts. Play continues clockwise.
 
+![2019-09-04 10 21 11 (1)](https://user-images.githubusercontent.com/43822080/64263816-4a97fb00-cefe-11e9-8610-7220bf4efff5.gif)
+
 Roll dice to get the highest score after all 13 rounds.
 
 ### Gameplay
@@ -52,3 +54,5 @@ Chance: the sum of all your die faces.
 Yahtzee: you must have at least five of the same die faces and score 50 points.
 
 ## Examples
+
+![2019-09-04 10 27 57 (1)](https://user-images.githubusercontent.com/43822080/64264525-72d42980-ceff-11e9-8e3d-b79c46f503bb.gif)
